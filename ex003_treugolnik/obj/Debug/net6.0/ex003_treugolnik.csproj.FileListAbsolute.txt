@@ -1,0 +1,15 @@
+C:\Users\2\Desktop\newprogram\examples\ex003_treugolnik\obj\Debug\net6.0\ex003_treugolnik.csproj.AssemblyReference.cache
+C:\Users\2\Desktop\newprogram\examples\ex003_treugolnik\obj\Debug\net6.0\ex003_treugolnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2\Desktop\newprogram\examples\ex003_treugolnik\obj\Debug\net6.0\ex003_treugolnik.AssemblyInfoInputs.cache
+C:\Users\2\Desktop\newprogram\examples\ex003_treugolnik\obj\Debug\net6.0\ex003_treugolnik.AssemblyInfo.cs
+C:\Users\2\Desktop\newprogram\examples\ex003_treugolnik\obj\Debug\net6.0\ex003_treugolnik.csproj.CoreCompileInputs.cache
+C:\Users\2\Desktop\newprogram\examples\ex003_treugolnik\bin\Debug\net6.0\ex003_treugolnik.exe
+C:\Users\2\Desktop\newprogram\examples\ex003_treugolnik\bin\Debug\net6.0\ex003_treugolnik.deps.json
+C:\Users\2\Desktop\newprogram\examples\ex003_treugolnik\bin\Debug\net6.0\ex003_treugolnik.runtimeconfig.json
+C:\Users\2\Desktop\newprogram\examples\ex003_treugolnik\bin\Debug\net6.0\ex003_treugolnik.dll
+C:\Users\2\Desktop\newprogram\examples\ex003_treugolnik\bin\Debug\net6.0\ex003_treugolnik.pdb
+C:\Users\2\Desktop\newprogram\examples\ex003_treugolnik\obj\Debug\net6.0\ex003_treugolnik.dll
+C:\Users\2\Desktop\newprogram\examples\ex003_treugolnik\obj\Debug\net6.0\refint\ex003_treugolnik.dll
+C:\Users\2\Desktop\newprogram\examples\ex003_treugolnik\obj\Debug\net6.0\ex003_treugolnik.pdb
+C:\Users\2\Desktop\newprogram\examples\ex003_treugolnik\obj\Debug\net6.0\ex003_treugolnik.genruntimeconfig.cache
+C:\Users\2\Desktop\newprogram\examples\ex003_treugolnik\obj\Debug\net6.0\ref\ex003_treugolnik.dll
